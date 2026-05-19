@@ -16,7 +16,9 @@ Desenvolvimento de um dashboard interativo em Microsoft Power BI utilizando um d
 - Países com maior média de valor de venda, exibidos em mapa geográfico.
 
 ### Preview
-<img width="1200" height="675" alt="vendasGlobaisVideo" src="https://github.com/user-attachments/assets/2a6d966e-0c7b-4eb0-9d5e-685e83ad8d92" />
+<img width="1152" height="648" alt="VendasGlobaisV1 2" src="https://github.com/user-attachments/assets/cda5c17d-e1be-427e-84dc-6d8a4aec53dc" />
+
+
 
 ## Projeto 2: Modelagem de Dados e Análise de Indicadores Comerciais
 
