@@ -16,9 +16,8 @@ Desenvolvimento de um dashboard interativo em Microsoft Power BI utilizando um d
 - Países com maior média de valor de venda, exibidos em mapa geográfico.
 
 ### Preview
+
 <img width="1152" height="648" alt="VendasGlobaisV1 2" src="https://github.com/user-attachments/assets/cda5c17d-e1be-427e-84dc-6d8a4aec53dc" />
-
-
 
 ## Projeto 2: Modelagem de Dados e Análise de Indicadores Comerciais
 
@@ -34,6 +33,28 @@ Dashboard analítico em Microsoft Power BI com foco em modelagem de dados, trata
 ### Preview
 <img width="1152" height="648" alt="Projeto02" src="https://github.com/user-attachments/assets/dc8d4055-7e78-4d92-9590-f457de6aa1d6" />
 
+## Projeto 3: Análise de Campanhas de Marketing e Comportamento do Cliente
+
+Conjunto de dashboards analíticos voltados à análise de campanhas de marketing, comportamento de compra e perfil de clientes, utilizando dados fictícios customizados para simular cenários reais de negócio. O projeto foi desenvolvido com foco na extração de métricas estratégicas, cruzamento de informações e geração de insights para apoio à tomada de decisão nas áreas de marketing e vendas.
+
+Os relatórios foram divididos em quatro visões analíticas:
+- Visão do Cliente;
+- Visão do Comportamento de Compra do Cliente;
+- Visão da Performance das Campanhas de Marketing;
+- Visão dos Padrões de Compra por País.
+
+### O dashboard apresenta:
+- Taxa de conversão de campanhas de marketing;
+- Análise de retenção e comportamento dos clientes;
+- Indicadores de custo de aquisição de clientes (CAC) e retorno sobre investimento (ROI);
+- Métricas de engajamento e desempenho das campanhas;
+- Análise de padrões de compra por localização geográfica;
+- Monitoramento de tráfego e interação dos usuários;
+- Avaliação da efetividade das campanhas de marketing por perfil de cliente;
+- Criação de métricas e indicadores estratégicos utilizando recursos do Power BI.
+
+### Preview
+<img width="1152" height="648" alt="DashboardPBI_AnaliseMarketingCampanhas" src="https://github.com/user-attachments/assets/c366691c-13d2-48b2-b0ee-db52500eb2b7" />
 
 
 
