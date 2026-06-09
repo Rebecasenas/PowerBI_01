@@ -64,11 +64,6 @@ Desenvolvimento de um dashboard analítico com foco na avaliação da performanc
 - Volume total de vendas realizadas pela empresa;
 - Ticket médio das transações comerciais;
 - Taxa de conversão de clientes ao longo do processo de vendas;
-- Análise do ciclo de vendas, desde o primeiro contato até o fechamento do negócio;
-- Indicadores de retenção e recorrência de clientes;
-- Monitoramento da lucratividade considerando receitas e custos associados às vendas;
-- Avaliação da produtividade da equipe comercial por vendedor e período;
-- Indicadores de satisfação dos clientes em relação aos produtos e serviços oferecidos;
 - Acompanhamento de métricas estratégicas para suporte à gestão comercial;
 - Visualizações interativas para análise de tendências e desempenho de vendas.
 
