@@ -56,6 +56,26 @@ Os relatórios foram divididos em quatro visões analíticas:
 ### Preview
 <img width="1152" height="648" alt="DashboardPBI_AnaliseMarketingCampanhas" src="https://github.com/user-attachments/assets/c366691c-13d2-48b2-b0ee-db52500eb2b7" />
 
+## Projeto 4: Análise de Performance Comercial e Indicadores de Vendas
+
+Desenvolvimento de um dashboard analítico com foco na avaliação da performance comercial de uma empresa. O projeto foi construído para transformar dados de vendas em informações estratégicas, permitindo o acompanhamento dos principais indicadores de desempenho (KPIs) utilizados pela área comercial. Por meio da modelagem de dados, criação de métricas e visualizações interativas, o dashboard oferece suporte à tomada de decisão e ao monitoramento dos resultados de vendas. O desenvolvimento também contemplou a utilização do recurso de Narrativa Inteligente do Power BI, permitindo a geração automática de insights e resumos analíticos sobre os indicadores apresentados.
+
+### O dashboard apresenta:
+- Volume total de vendas realizadas pela empresa;
+- Ticket médio das transações comerciais;
+- Taxa de conversão de clientes ao longo do processo de vendas;
+- Análise do ciclo de vendas, desde o primeiro contato até o fechamento do negócio;
+- Indicadores de retenção e recorrência de clientes;
+- Monitoramento da lucratividade considerando receitas e custos associados às vendas;
+- Avaliação da produtividade da equipe comercial por vendedor e período;
+- Indicadores de satisfação dos clientes em relação aos produtos e serviços oferecidos;
+- Acompanhamento de métricas estratégicas para suporte à gestão comercial;
+- Visualizações interativas para análise de tendências e desempenho de vendas.
+
+### Preview
+<img width="1152" height="648" alt="Análise _de_PerformanceComercial_e_IndicadoresDeVendas" src="https://github.com/user-attachments/assets/ba0361bf-7a91-4ec6-a991-b1875f06cffe" />
+
+
 
 
 
