@@ -70,6 +70,23 @@ Desenvolvimento de um dashboard analítico com foco na avaliação da performanc
 ### Preview
 <img width="1152" height="648" alt="Análise _de_PerformanceComercial_e_IndicadoresDeVendas" src="https://github.com/user-attachments/assets/ba0361bf-7a91-4ec6-a991-b1875f06cffe" />
 
+## Projeto 5: Performance Comercial de Pet Shop de Pequeno Porte
+
+Dashboard analítico com foco no monitoramento do desempenho comercial de um pet shop de pequeno porte. O projeto foi elaborado para consolidar informações de vendas, clientes e produtos em uma única visão estratégica, permitindo acompanhar indicadores essenciais do negócio e identificar oportunidades de crescimento. Por meio de visualizações interativas e métricas de desempenho, o dashboard auxilia na análise do perfil dos clientes, comportamento de compra e resultados financeiros da empresa.
+
+### O dashboard apresenta:
+- Faturamento total obtido no período analisado;
+- Quantidade total de vendas realizadas;
+- Média de pets por cliente cadastrado;
+- Distribuição do faturamento por gênero dos clientes;
+- Análise geográfica do faturamento por bairro;
+- Identificação dos produtos com maior participação no faturamento;
+- Participação percentual de cada produto no volume de vendas;
+- Indicadores de receita para acompanhamento da performance comercial;
+- Visualizações que apoiam a identificação de perfis de consumo e oportunidades de mercado.
+
+### Preview
+<img width="1920" height="1080" alt="petGatitos - Power BI" src="https://github.com/user-attachments/assets/c366f19f-ba00-4aa7-bfbc-3ad7bff3723f" />
 
 
 
