@@ -17,7 +17,10 @@ Desenvolvimento de um dashboard interativo em Microsoft Power BI utilizando um d
 
 ### Preview
 
-<img width="1152" height="648" alt="VendasGlobaisV1 2" src="https://github.com/user-attachments/assets/cda5c17d-e1be-427e-84dc-6d8a4aec53dc" />
+<img width="1536" height="864" alt="VendasGlobaisV1" src="https://github.com/user-attachments/assets/0d923c35-f157-418b-9ea7-cda10d1084d6" />
+
+
+
 
 ## Projeto 2: Modelagem de Dados e Análise de Indicadores Comerciais
 
